@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
-[![Global Electronics Retailer](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Global-Electronics-Retailer&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Global-Electronics-Retailer)
+[![Global Electronics Retailer](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Global-Electronics-Retailer&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Global-Electronics-Retailer-Sales-and-Customer-Insights)
 [![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Adidas-Sales-Analysis)
 [![Sales & Customer Performance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Sales-and-Customer-Performance-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Sales-and-Customer-Performance-Dashboard)
 [![Maven's Pizza Sales Insight](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Mavens-Pizza-Sales-Insight)
