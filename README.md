@@ -15,9 +15,10 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-3776AB?style=for-the-badge&logo=n8n&logoColor=white)
-![Quadratic AI](https://img.shields.io/badge/Quadratic_AI-3776AB?style=for-the-badge&logo=n8n&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Quadratic AI](https://img.shields.io/badge/Quadratic_AI-6366F1?style=for-the-badge&logo=airtable&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
