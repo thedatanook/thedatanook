@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
-[![Global Electronics Retailer](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Global-Electronics-Retailer&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Global-Electronics-Retailer)
-[![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Adidas-Sales-Analysis)
-[![Sales & Customer Performance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Sales-and-Customer-Performance-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Sales-and-Customer-Performance-Dashboard)
-[![Maven's Pizza Sales Insight](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
+[![Global Electronics Retailer](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Global-Electronics-Retailer&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Global-Electronics-Retailer)
+[![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Adidas-Sales-Analysis)
+[![Sales & Customer Performance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Sales-and-Customer-Performance-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Sales-and-Customer-Performance-Dashboard)
+[![Maven's Pizza Sales Insight](https://github-readme-stats.vercel.app/api/pin/?username=thedatanook&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thedatanook/Mavens-Pizza-Sales-Insight)
 
 <p align="left">
-  <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/thedatanook?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🛠️ Skills
@@ -21,10 +21,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Karlyn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karlyndiary&show_icons=true&theme=dark#gh-dark-mode-only)
+![Karlyn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thedatanook&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlyndiary&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedatanook&layout=compact)
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-judelyn-fernandes/)
